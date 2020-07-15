@@ -8,4 +8,3 @@
 - 🐧 Project Head @ VIT Linux User Group.
 - 📫 How to reach me: I am everywhere as @abhinavmir.
 - 💾 I write at <a href="http://medium.com/@abhinavmir">Medium</a> and do stuff on <a href="https://www.youtube.com/channel/UCcFGIS9ESqxGytSqU9ELg7w?view_as=subscriber">YouTube</a>.
-- ⚡ Fun fact: I like cars, rap, UFC and pop economics.
