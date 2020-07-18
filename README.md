@@ -1,4 +1,5 @@
 ### Hi there 👋
+![GitHub followers](https://img.shields.io/github/followers/abhinavmir?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/abhinavmir?style=social) ![Twitch Status](https://img.shields.io/twitch/status/abhinavmir?style=social)
 - ⛅️ I’m currently working on Blockchain, DLTs, DeFi/Crypto, Distributed Storage.
 - 🎈 I have experience with Web Development (Especially with JavaScript, C#, Python and PHP frameworks).
 - 🌿 I am currently learning C++, GoLang and Unreal Game Dev.
