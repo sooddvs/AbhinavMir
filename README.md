@@ -12,9 +12,9 @@
 
   ```
          _nnnn_                      
-        dGGGGMMb     ,"""""""""""""".
-       @p~qp~~qMb    | Linux Rules! |
-       M|@||@) M|   _;..............'
+        dGGGGMMb     ,"""""""""""""""""""""""""""""""""""""""""""|
+       @p~qp~~qMb    | Welcome to the UNIXverse! Also, Fuck CCP! |
+       M|@||@) M|   _;...........................................|
        @,----.JM| -'
       JS^\__/  qKL
      dZP        qKRb
