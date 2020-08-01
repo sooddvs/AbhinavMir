@@ -9,3 +9,22 @@
 - 🐧 Project Head @ VIT Linux User Group.
 - 📫 How to reach me: I am everywhere as @abhinavmir.
 - 💾 I write at <a href="http://medium.com/@abhinavmir">Medium</a> and do stuff on <a href="https://www.youtube.com/channel/UCcFGIS9ESqxGytSqU9ELg7w?view_as=subscriber">YouTube</a>.
+
+  ```
+         _nnnn_                      
+        dGGGGMMb     ,"""""""""""""".
+       @p~qp~~qMb    | Linux Rules! |
+       M|@||@) M|   _;..............'
+       @,----.JM| -'
+      JS^\__/  qKL
+     dZP        qKRb
+    dZP          qKKb
+   fZP            SMMb
+   HZM            MMMM
+   FqM            MMMM
+ __| ".        |\dS"qML
+ |    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMM|   .'
+     `-'       `--' 
+     
