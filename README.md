@@ -12,9 +12,9 @@
 
   ```
          _nnnn_                      
-        dGGGGMMb     ,"""""""""""""""""""""""""""|
-       @p~qp~~qMb    | Welcome to my UNIXverse! |
-       M|@||@) M|   _;...........................|
+        dGGGGMMb     ,"""""""""""""""""""""""""""""|
+       @p~qp~~qMb    | Free Belarus, Down with CCP |
+       M|@||@) M|   _;.............................|
        @,----.JM| -'
       JS^\__/  qKL
      dZP        qKRb
